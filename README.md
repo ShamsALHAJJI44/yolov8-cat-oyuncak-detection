@@ -20,7 +20,7 @@ eğitilmiştir. Eğitilen model PyQt5 tabanlı bir masaüstü arayüz ile entegr
 ---
 
 ## Dosyalar
-- `Untitled6.ipynb` : Model eğitimi ve veri hazırlama
+- `yolo_gui.ipynb` : Model eğitimi ve veri hazırlama
 - `best.pt` : Eğitilmiş YOLOv8 modeli
 - `cats_dolls.yaml` : YOLO yapılandırma dosyası
 - `main.py` : PyQt5 grafik arayüz uygulaması
